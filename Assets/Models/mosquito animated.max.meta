@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: a06b1c0a35d6385469e4165d4b561dc5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: mosquito_NOwings
+    100006: mosquito_NOwingsHub001
+    100008: mosquito_NOwingsHub001Bone001
+    100010: mosquito_NOwingsHub001Bone002
+    100012: mosquito_NOwingsHub001Bone003
+    100014: mosquito_NOwingsHub001Bone004
+    100016: mosquito_NOwingsHub001Bone004Bone001
+    100018: mosquito_NOwingsLLeg004
+    100020: mosquito_NOwingsLLeg005
+    100022: mosquito_NOwingsLLeg006
+    100024: mosquito_NOwingsLLeg1
+    100026: mosquito_NOwingsLLeg1 1
+    100028: mosquito_NOwingsLLeg1 2
+    100030: mosquito_NOwingsLLeg1 3
+    100032: mosquito_NOwingsLLeg1 4
+    100034: mosquito_NOwingsLLeg2
+    100036: mosquito_NOwingsLLeg2 1
+    100038: mosquito_NOwingsLLeg2 2
+    100040: mosquito_NOwingsLLeg2 3
+    100042: mosquito_NOwingsLLeg2 4
+    100044: mosquito_NOwingsLLeg3
+    100046: mosquito_NOwingsLLeg3 1
+    100048: mosquito_NOwingsLLeg3 2
+    100050: mosquito_NOwingsLLeg3 3
+    100052: mosquito_NOwingsLLeg3 4
+    100054: mosquito_NOwingsLLegAnkle
+    100056: mosquito_NOwingsLLegAnkle 1
+    100058: mosquito_NOwingsLLegAnkle 2
+    100060: mosquito_NOwingsLLegAnkle 3
+    100062: mosquito_NOwingsLLegAnkle 4
+    100064: mosquito_NOwingsLLegAnkle001
+    100066: mosquito_NOwingsLLegPlatform
+    100068: mosquito_NOwingsLLegPlatform 1
+    100070: mosquito_NOwingsLLegPlatform 2
+    100072: mosquito_NOwingsLLegPlatform 3
+    100074: mosquito_NOwingsLLegPlatform 4
+    100076: mosquito_NOwingsLLegPlatform001
+    400000: Cube
+    400002: //RootNode
+    400004: mosquito_NOwings
+    400006: mosquito_NOwingsHub001
+    400008: mosquito_NOwingsHub001Bone001
+    400010: mosquito_NOwingsHub001Bone002
+    400012: mosquito_NOwingsHub001Bone003
+    400014: mosquito_NOwingsHub001Bone004
+    400016: mosquito_NOwingsHub001Bone004Bone001
+    400018: mosquito_NOwingsLLeg004
+    400020: mosquito_NOwingsLLeg005
+    400022: mosquito_NOwingsLLeg006
+    400024: mosquito_NOwingsLLeg1
+    400026: mosquito_NOwingsLLeg1 1
+    400028: mosquito_NOwingsLLeg1 2
+    400030: mosquito_NOwingsLLeg1 3
+    400032: mosquito_NOwingsLLeg1 4
+    400034: mosquito_NOwingsLLeg2
+    400036: mosquito_NOwingsLLeg2 1
+    400038: mosquito_NOwingsLLeg2 2
+    400040: mosquito_NOwingsLLeg2 3
+    400042: mosquito_NOwingsLLeg2 4
+    400044: mosquito_NOwingsLLeg3
+    400046: mosquito_NOwingsLLeg3 1
+    400048: mosquito_NOwingsLLeg3 2
+    400050: mosquito_NOwingsLLeg3 3
+    400052: mosquito_NOwingsLLeg3 4
+    400054: mosquito_NOwingsLLegAnkle
+    400056: mosquito_NOwingsLLegAnkle 1
+    400058: mosquito_NOwingsLLegAnkle 2
+    400060: mosquito_NOwingsLLegAnkle 3
+    400062: mosquito_NOwingsLLegAnkle 4
+    400064: mosquito_NOwingsLLegAnkle001
+    400066: mosquito_NOwingsLLegPlatform
+    400068: mosquito_NOwingsLLegPlatform 1
+    400070: mosquito_NOwingsLLegPlatform 2
+    400072: mosquito_NOwingsLLegPlatform 3
+    400074: mosquito_NOwingsLLegPlatform 4
+    400076: mosquito_NOwingsLLegPlatform001
+    2100000: sdfdsf
+    2100002: Material
+    4300000: Cube
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1361 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &456340234552715092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4900382602166221219}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg005
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4900382602166221219
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456340234552715092}
+  m_LocalRotation: {x: 0.0576379, y: -0.19487055, z: 0.8560455, w: 0.4752783}
+  m_LocalPosition: {x: -96.880035, y: 0, z: 0.00000047683716}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+  m_Children:
+  - {fileID: 6611402945659536137}
+  m_Father: {fileID: 3494688967132408474}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &537106044750549707
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4473371370583960991}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4473371370583960991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537106044750549707}
+  m_LocalRotation: {x: -0.12722144, y: 0.9774432, z: 0.06981425, w: -0.1534453}
+  m_LocalPosition: {x: 35.268494, y: 13.643677, z: 52.78071}
+  m_LocalScale: {x: 0.99999875, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3962458039526869506}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1385953862045426841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7832003046385650173}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg2 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7832003046385650173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1385953862045426841}
+  m_LocalRotation: {x: -0.023541017, y: -0.19061148, z: 0.7765499, w: 0.60006946}
+  m_LocalPosition: {x: -94.52434, y: -0.000061035156, z: -0.000061035156}
+  m_LocalScale: {x: 1.0000116, y: 0.99999434, z: 0.99999404}
+  m_Children:
+  - {fileID: 6971318741779555198}
+  m_Father: {fileID: 4696550041611236931}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1542557319092372115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7000186303093589040}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7000186303093589040
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1542557319092372115}
+  m_LocalRotation: {x: 0.7571956, y: 0.38967347, z: 0.2996809, w: -0.43011713}
+  m_LocalPosition: {x: -376.66345, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 0.99999845, y: 0.99999934, z: 1.0000021}
+  m_Children: []
+  m_Father: {fileID: 8394144251839646509}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2112333896497713269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2296629719208183558}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsHub001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2296629719208183558
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112333896497713269}
+  m_LocalRotation: {x: -0.5497134, y: 0.42181006, z: 0.57203555, w: -0.4389383}
+  m_LocalPosition: {x: 28.282072, y: 294.38196, z: 843.29016}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 2240298221173566927}
+  - {fileID: 4973347626024140586}
+  - {fileID: 4084308226514748065}
+  - {fileID: 5856028907928371392}
+  - {fileID: 4473371370583960991}
+  - {fileID: 9032090428446410119}
+  - {fileID: 3768370141313364304}
+  - {fileID: 2996396307960584398}
+  - {fileID: 4696550041611236931}
+  - {fileID: 3494688967132408474}
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2460600349601256574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3962458039526869506}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3962458039526869506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2460600349601256574}
+  m_LocalRotation: {x: -0.20280518, y: 0.8368704, z: 0.27943915, w: -0.42477268}
+  m_LocalPosition: {x: -109.644455, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 0.99999386, y: 0.99999964, z: 1.0000012}
+  m_Children:
+  - {fileID: 5517858246397111965}
+  m_Father: {fileID: 4473371370583960991}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2599107854091856396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7299321678127934202}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg3 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7299321678127934202
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2599107854091856396}
+  m_LocalRotation: {x: 0.5159903, y: 0.74559826, z: 0.2628945, w: -0.32973278}
+  m_LocalPosition: {x: -306.35803, y: 0.0029907227, z: -0.000061035156}
+  m_LocalScale: {x: 0.99999136, y: 0.9999804, z: 1.0000273}
+  m_Children:
+  - {fileID: 3316196153338255764}
+  m_Father: {fileID: 7188813826076835919}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2658060580274206463
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7631925837377865278}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegPlatform 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7631925837377865278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2658060580274206463}
+  m_LocalRotation: {x: 0.46340945, y: -0.53408974, z: -0.46340933, w: 0.5340895}
+  m_LocalPosition: {x: 87.75178, y: 11.93839, z: 827.13696}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2680713362567615225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3316196153338255764}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegAnkle 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3316196153338255764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2680713362567615225}
+  m_LocalRotation: {x: 0.9106712, y: 0.34821248, z: -0.020405402, w: 0.22138135}
+  m_LocalPosition: {x: -367.66605, y: 0.000030517578, z: 0}
+  m_LocalScale: {x: 1.0000037, y: 0.99998635, z: 1.0000088}
+  m_Children: []
+  m_Father: {fileID: 7299321678127934202}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3272602664955772243
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1138917055206368721}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegPlatform001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1138917055206368721
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3272602664955772243}
+  m_LocalRotation: {x: 0.16310444, y: -0.51194495, z: -0.25602302, w: 0.80359286}
+  m_LocalPosition: {x: -166.76144, y: 18.260992, z: 261.7409}
+  m_LocalScale: {x: 1, y: 1.0000004, z: 1}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3405423159075123087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6971318741779555198}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg3 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6971318741779555198
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3405423159075123087}
+  m_LocalRotation: {x: 0.1784706, y: -0.05453693, z: -0.40204948, w: 0.8963984}
+  m_LocalPosition: {x: -298.58414, y: 0.0040283203, z: -0.0045166016}
+  m_LocalScale: {x: 1.0000385, y: 0.99998456, z: 0.9999765}
+  m_Children:
+  - {fileID: 1202332281736633199}
+  m_Father: {fileID: 7832003046385650173}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3665687927602096269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5195667952047744673}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegAnkle 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5195667952047744673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3665687927602096269}
+  m_LocalRotation: {x: -0.34512994, y: -0.1740433, z: -0.46664885, w: 0.79550815}
+  m_LocalPosition: {x: -365.21228, y: 0.000061035156, z: 0.000030517578}
+  m_LocalScale: {x: 0.9999994, y: 0.99999624, z: 1.0000043}
+  m_Children: []
+  m_Father: {fileID: 5517858246397111965}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3974127951357467513
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9032090428446410119}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg1 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9032090428446410119
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3974127951357467513}
+  m_LocalRotation: {x: -0.07652402, y: 0.9914985, z: -0.093929976, w: -0.04745586}
+  m_LocalPosition: {x: 19.81488, y: -19.6875, z: 52.780712}
+  m_LocalScale: {x: 0.99999887, y: 1.0000005, z: 0.9999996}
+  m_Children:
+  - {fileID: 5058043519129227188}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4032278921822147039
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8913300369942390600}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegPlatform 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8913300369942390600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4032278921822147039}
+  m_LocalRotation: {x: 0.2756843, y: -0.7970616, z: -0.17563027, w: 0.50778437}
+  m_LocalPosition: {x: 249.62677, y: 0.5347118, z: 304.49808}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999976}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4677636499049682120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4084308226514748065}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsHub001Bone003
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4084308226514748065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4677636499049682120}
+  m_LocalRotation: {x: 0.2041436, y: 0.053566165, z: -0.013911635, w: 0.9773753}
+  m_LocalPosition: {x: -22.983154, y: -243.17471, z: -145.11316}
+  m_LocalScale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4929828279644639777
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 877659392462628654}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegPlatform 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &877659392462628654
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4929828279644639777}
+  m_LocalRotation: {x: -0.5130098, y: 0.4866426, z: 0.51300985, w: -0.48664254}
+  m_LocalPosition: {x: -24.511889, y: 0.3399825, z: 659.2434}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4967047071093313902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4696550041611236931}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg1 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4696550041611236931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4967047071093313902}
+  m_LocalRotation: {x: -0.20272234, y: 0.9216169, z: 0.32080102, w: -0.081318356}
+  m_LocalPosition: {x: 31.18219, y: -48.68701, z: -32.96541}
+  m_LocalScale: {x: 0.9999997, y: 0.99999845, z: 1.000002}
+  m_Children:
+  - {fileID: 7832003046385650173}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5052359941160474633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6611402945659536137}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg006
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6611402945659536137
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5052359941160474633}
+  m_LocalRotation: {x: 0.1681033, y: 0.005030003, z: -0.44343048, w: 0.88038933}
+  m_LocalPosition: {x: -310.10352, y: 0.008239746, z: -0.008544922}
+  m_LocalScale: {x: 1.0000002, y: 0.9999996, z: 0.9999996}
+  m_Children:
+  - {fileID: 8041392279058489117}
+  m_Father: {fileID: 4900382602166221219}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5077610174808849105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 839344883105235170}
+  m_Layer: 0
+  m_Name: mosquito_NOwings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &839344883105235170
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5077610174808849105}
+  m_LocalRotation: {x: 0.50000006, y: -0.49999997, z: -0.5, w: 0.5000001}
+  m_LocalPosition: {x: 28.282059, y: 1.1368684e-13, z: 789.9185}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5169454536479717294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5517858246397111965}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg3 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5517858246397111965
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5169454536479717294}
+  m_LocalRotation: {x: -0.40562752, y: 0.6002124, z: 0.42671567, w: 0.5414103}
+  m_LocalPosition: {x: -334.02908, y: 0, z: 0.00016784668}
+  m_LocalScale: {x: 0.9999955, y: 0.99999917, z: 1.0000019}
+  m_Children:
+  - {fileID: 5195667952047744673}
+  m_Father: {fileID: 3962458039526869506}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5641828587279114609
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3494688967132408474}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg004
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3494688967132408474
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5641828587279114609}
+  m_LocalRotation: {x: -0.29923254, y: 0.9539448, z: 0.021163505, w: 0.0011743915}
+  m_LocalPosition: {x: 31.182068, y: -48.686768, z: 35.07198}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 4900382602166221219}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5803488191669635918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5856028907928371392}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsHub001Bone004
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5856028907928371392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5803488191669635918}
+  m_LocalRotation: {x: -0.2057828, y: -0.06734005, z: -0.04556923, w: 0.97521394}
+  m_LocalPosition: {x: -38.732605, y: -248.30643, z: 143.55862}
+  m_LocalScale: {x: 0.9999998, y: 1.0000002, z: 0.99999976}
+  m_Children:
+  - {fileID: 3157356113433923666}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6219161943915045818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4973347626024140586}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsHub001Bone002
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4973347626024140586
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6219161943915045818}
+  m_LocalRotation: {x: -0.000000008274153, y: -0.000000037911793, z: -0.3420203, w: 0.93969256}
+  m_LocalPosition: {x: 48.563538, y: 144.74872, z: -0.00002527237}
+  m_LocalScale: {x: 0.9999999, y: 0.99999976, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6295113574863604065
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9131674028047519115}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegPlatform 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9131674028047519115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6295113574863604065}
+  m_LocalRotation: {x: 0.50000006, y: -0.49999997, z: -0.49999997, w: 0.50000006}
+  m_LocalPosition: {x: 90.00371, y: 0.000016046008, z: 888.4082}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6547099873291073448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4154785850241159912}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4154785850241159912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6547099873291073448}
+  m_LocalRotation: {x: 0.57247895, y: -0.4150516, z: -0.57247895, w: 0.4150516}
+  m_LocalPosition: {x: -26.898632, y: 13.432292, z: 720.5315}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6586594025649335230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2240298221173566927}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsHub001Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2240298221173566927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6586594025649335230}
+  m_LocalRotation: {x: 0.0000000025678082, y: 0.000000015353496, z: 0.17364825, w: 0.9848078}
+  m_LocalPosition: {x: 76.72101, y: -240.35162, z: 0.00003671646}
+  m_LocalScale: {x: 0.9999999, y: 0.9999998, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6773317543293323769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 24796603357650689}
+  - component: {fileID: 4528528041221448225}
+  - component: {fileID: 2044134383805686125}
+  - component: {fileID: 4592371855208730978}
+  - component: {fileID: 2212119281167040064}
+  m_Layer: 0
+  m_Name: Mos_Basic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &24796603357650689
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6773317543293323769}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 337, y: 33.2, z: 1403}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_Children:
+  - {fileID: 2745449510698865216}
+  - {fileID: 839344883105235170}
+  - {fileID: 2296629719208183558}
+  - {fileID: 4154785850241159912}
+  - {fileID: 877659392462628654}
+  - {fileID: 9131674028047519115}
+  - {fileID: 7631925837377865278}
+  - {fileID: 8913300369942390600}
+  - {fileID: 1138917055206368721}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!95 &4528528041221448225
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6773317543293323769}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: a06b1c0a35d6385469e4165d4b561dc5, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2044134383805686125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6773317543293323769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88a220249f5ce054a82b3f3c680bf67a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rateOfAttack: 0
+  mosquitoLife: 1
+  vel: 3
+  canWalk: 0
+  Canhit: 0
+--- !u!54 &4592371855208730978
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6773317543293323769}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &2212119281167040064
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6773317543293323769}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &6984003268283888241
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8394144251839646509}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8394144251839646509
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6984003268283888241}
+  m_LocalRotation: {x: 0.3560598, y: 0.5965652, z: 0.31702033, w: 0.6456234}
+  m_LocalPosition: {x: -326.65845, y: -0.00030517578, z: 0.00024414062}
+  m_LocalScale: {x: 0.9999972, y: 0.9999967, z: 1.0000002}
+  m_Children:
+  - {fileID: 7000186303093589040}
+  m_Father: {fileID: 5058043519129227188}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6990147023506749783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8041392279058489117}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegAnkle001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8041392279058489117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990147023506749783}
+  m_LocalRotation: {x: 0.029088099, y: -0.03426586, z: -0.79919213, w: 0.5993928}
+  m_LocalPosition: {x: -344.89722, y: 0.0000076293945, z: -0.000030517578}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 6611402945659536137}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7095668969666308271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3157356113433923666}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsHub001Bone004Bone001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3157356113433923666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7095668969666308271}
+  m_LocalRotation: {x: -0.0000000069849198, y: 0.000000001047738, z: 0.000000014901165,
+    w: 1}
+  m_LocalPosition: {x: -0.25823975, y: 203.87183, z: -3.2231445}
+  m_LocalScale: {x: 0.99999976, y: 0.9999999, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 5856028907928371392}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7223208500254022285
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2745449510698865216}
+  - component: {fileID: 4224669739543728661}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2745449510698865216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7223208500254022285}
+  m_LocalRotation: {x: -0.7071068, y: -5.352655e-10, z: -5.3526483e-10, w: 0.7071068}
+  m_LocalPosition: {x: 28.69299, y: 237.21996, z: 985.11444}
+  m_LocalScale: {x: 39.370083, y: 39.37008, z: 39.37008}
+  m_Children: []
+  m_Father: {fileID: 24796603357650689}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &4224669739543728661
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7223208500254022285}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a06b1c0a35d6385469e4165d4b561dc5, type: 3}
+  - {fileID: 2100002, guid: a06b1c0a35d6385469e4165d4b561dc5, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: a06b1c0a35d6385469e4165d4b561dc5, type: 3}
+  m_Bones:
+  - {fileID: 2296629719208183558}
+  - {fileID: 4973347626024140586}
+  - {fileID: 2240298221173566927}
+  - {fileID: 3494688967132408474}
+  - {fileID: 4696550041611236931}
+  - {fileID: 5856028907928371392}
+  - {fileID: 3157356113433923666}
+  - {fileID: 4084308226514748065}
+  - {fileID: 4900382602166221219}
+  - {fileID: 7832003046385650173}
+  - {fileID: 4473371370583960991}
+  - {fileID: 2996396307960584398}
+  - {fileID: 9032090428446410119}
+  - {fileID: 3768370141313364304}
+  - {fileID: 5058043519129227188}
+  - {fileID: 7188813826076835919}
+  - {fileID: 3962458039526869506}
+  - {fileID: 4928987698924746328}
+  - {fileID: 5517858246397111965}
+  - {fileID: 8005808126247464094}
+  - {fileID: 5195667952047744673}
+  - {fileID: 5378018193606411355}
+  - {fileID: 8394144251839646509}
+  - {fileID: 7299321678127934202}
+  - {fileID: 7000186303093589040}
+  - {fileID: 3316196153338255764}
+  - {fileID: 6611402945659536137}
+  - {fileID: 6971318741779555198}
+  - {fileID: 8041392279058489117}
+  - {fileID: 1202332281736633199}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 2296629719208183558}
+  m_AABB:
+    m_Center: {x: 148.50607, y: -45.30133, z: -13.2091675}
+    m_Extent: {x: 307.76102, y: 625.5892, z: 526.1621}
+  m_DirtyAABB: 0
+--- !u!1 &7368455980501396999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2996396307960584398}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg1 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2996396307960584398
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7368455980501396999}
+  m_LocalRotation: {x: -0.2232554, y: 0.9659678, z: 0.12986729, w: -0.014067022}
+  m_LocalPosition: {x: 35.26886, y: 13.643677, z: -61.73485}
+  m_LocalScale: {x: 0.9999995, y: 0.9999999, z: 0.9999998}
+  m_Children:
+  - {fileID: 4928987698924746328}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8133893213368205189
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4928987698924746328}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg2 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4928987698924746328
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8133893213368205189}
+  m_LocalRotation: {x: -0.52198523, y: 0.67732143, z: 0.5028659, w: 0.12606747}
+  m_LocalPosition: {x: -99.94719, y: 0.000061035156, z: 0}
+  m_LocalScale: {x: 0.99999934, y: 1.0000004, z: 0.9999999}
+  m_Children:
+  - {fileID: 8005808126247464094}
+  m_Father: {fileID: 2996396307960584398}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8273199104048291987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3768370141313364304}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg1 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3768370141313364304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8273199104048291987}
+  m_LocalRotation: {x: -0.17408092, y: 0.9774934, z: -0.0858243, w: 0.0826846}
+  m_LocalPosition: {x: 19.814941, y: -19.6875, z: -61.734844}
+  m_LocalScale: {x: 1.0000005, y: 0.9999998, z: 0.9999986}
+  m_Children:
+  - {fileID: 7188813826076835919}
+  m_Father: {fileID: 2296629719208183558}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8333309883600702262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5378018193606411355}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegAnkle 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5378018193606411355
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8333309883600702262}
+  m_LocalRotation: {x: 0.4871707, y: 0.18448244, z: -0.20618196, w: 0.8283236}
+  m_LocalPosition: {x: -386.1334, y: 0, z: 0.000061035156}
+  m_LocalScale: {x: 1.0000004, y: 1.0000017, z: 0.9999977}
+  m_Children: []
+  m_Father: {fileID: 8005808126247464094}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8610048211759307583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7188813826076835919}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg2 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7188813826076835919
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8610048211759307583}
+  m_LocalRotation: {x: 0.21955137, y: 0.91010123, z: -0.18856844, w: 0.29657185}
+  m_LocalPosition: {x: -109.57088, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 1.0000006, y: 0.99999166, z: 1.0000074}
+  m_Children:
+  - {fileID: 7299321678127934202}
+  m_Father: {fileID: 3768370141313364304}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8903904127634023617
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8005808126247464094}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg3 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8005808126247464094
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8903904127634023617}
+  m_LocalRotation: {x: 0.65602285, y: -0.4867989, z: -0.4526664, w: 0.35742706}
+  m_LocalPosition: {x: -318.982, y: -0.0012207031, z: 0.0038452148}
+  m_LocalScale: {x: 0.99999785, y: 0.99999964, z: 0.9999972}
+  m_Children:
+  - {fileID: 5378018193606411355}
+  m_Father: {fileID: 4928987698924746328}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9107912870446007769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5058043519129227188}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLeg2 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5058043519129227188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9107912870446007769}
+  m_LocalRotation: {x: 0.42782676, y: 0.8554979, z: 0.09008828, w: -0.27743784}
+  m_LocalPosition: {x: -109.57092, y: 0, z: 0.000015258789}
+  m_LocalScale: {x: 0.99999803, y: 0.99999934, z: 0.9999996}
+  m_Children:
+  - {fileID: 8394144251839646509}
+  m_Father: {fileID: 9032090428446410119}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &9207439817154186779
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1202332281736633199}
+  m_Layer: 0
+  m_Name: mosquito_NOwingsLLegAnkle 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1202332281736633199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9207439817154186779}
+  m_LocalRotation: {x: 0.10593198, y: 0.09888481, z: 0.8999194, w: -0.4112728}
+  m_LocalPosition: {x: -345.0396, y: -0.000045776367, z: 0}
+  m_LocalScale: {x: 1.0000347, y: 0.9999685, z: 0.9999979}
+  m_Children: []
+  m_Father: {fileID: 6971318741779555198}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
