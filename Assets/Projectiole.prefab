@@ -92,7 +92,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MovementSpeed: 100
-  Damage: 50
+  Damage: 20
   initpos: {x: 0, y: 0, z: 0}
   explosion: {fileID: 0}
 --- !u!135 &6085389560043280151

@@ -16,6 +16,11 @@ public class setTower : MonoBehaviour
         mscr = GameObject.Find("GameLogic").GetComponent<Money>();
     }
 
+    public void ChangeIndex(int v)
+    {
+        this.Selected = v;
+    }
+
     // Update is called once per frame
     void Update()
     {

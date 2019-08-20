@@ -27,10 +27,11 @@ public class Death : MonoBehaviour
             if (isTower)
             {
                 Destroy(gameObject);
+
             }
             else
             {
-                mscr.money += escr.Worth;
+                //mscr.money += escr.Worth;
                 Destroy(gameObject);
             }
         }
