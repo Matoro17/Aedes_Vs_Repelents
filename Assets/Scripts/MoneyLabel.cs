@@ -18,6 +18,6 @@ public class MoneyLabel : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        label.text = "Energia: " + msrc.money;
+        label.text = ""+ msrc.money;
     }
 }

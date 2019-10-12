@@ -30,6 +30,11 @@ ModelImporter:
     100048: Group001
     100050: Line001
     100052: //RootNode
+    100054: PhysCamera001
+    100056: PhysCamera001.Target
+    100058: Plane001
+    100060: TPhotometricLight001
+    100062: TPhotometricLight001.Target
     400000: Box001
     400002: Box002
     400004: Box003
@@ -57,8 +62,15 @@ ModelImporter:
     400048: Group001
     400050: Line001
     400052: //RootNode
+    400054: PhysCamera001
+    400056: PhysCamera001.Target
+    400058: Plane001
+    400060: TPhotometricLight001
+    400062: TPhotometricLight001.Target
     2100000: No Name
     2100002: 'Material #25'
+    2100004: 02 - Default
+    2100006: 01 - Default
     2300000: Box001
     2300002: Box002
     2300004: Box003
@@ -84,6 +96,7 @@ ModelImporter:
     2300044: ChamferBox005
     2300046: ChamferBox006
     2300048: Line001
+    2300050: Plane001
     3300000: Box001
     3300002: Box002
     3300004: Box003
@@ -109,6 +122,7 @@ ModelImporter:
     3300044: ChamferBox005
     3300046: ChamferBox006
     3300048: Line001
+    3300050: Plane001
     4300000: Box018
     4300002: Box002
     4300004: Box013
@@ -134,6 +148,8 @@ ModelImporter:
     4300044: ChamferBox005
     4300046: ChamferBox006
     4300048: Line001
+    4300050: Plane001
+    10800000: TPhotometricLight001
   externalObjects: {}
   materials:
     importMaterials: 1

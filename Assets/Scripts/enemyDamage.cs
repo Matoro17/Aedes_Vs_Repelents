@@ -38,7 +38,7 @@ public class enemyDamage : MonoBehaviour
                 }
             }else if (hit.transform.tag == "house")
             {
-                //lose game
+                GameObject.Find("GameLogic").GetComponent<LoseGame>().lost = true;
             }
             movscr.canmove = false;
         }else if (movscr.canmove == false)

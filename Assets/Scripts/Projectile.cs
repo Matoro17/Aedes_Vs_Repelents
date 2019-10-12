@@ -33,6 +33,7 @@ public class Projectile : MonoBehaviour
             other.GetComponent<Health>().health -= Damage;
             //Criar particulas
             Destroy(gameObject);
+            
         }
     }
 }

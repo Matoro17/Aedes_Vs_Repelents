@@ -8,9 +8,11 @@ public class Death : MonoBehaviour
     private Health hscr;
     private Money mscr;
     private EnemyStatus escr;
+    private WaveManager wavescrip;
 
     private void Start()
     {
+        wavescrip = GameObject.Find("GameLogic").GetComponent<WaveManager>();
         hscr = gameObject.GetComponent<Health>();
         mscr = GameObject.Find("GameLogic").GetComponent<Money>();
         if (!isTower)
@@ -31,8 +33,10 @@ public class Death : MonoBehaviour
             }
             else
             {
+                
                 //mscr.money += escr.Worth;
                 Destroy(gameObject);
+                wavescrip.addPoints(escr.Worth);
             }
         }
     }

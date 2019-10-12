@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyStatus : MonoBehaviour
 {
-    public float Worth;
+    public int Worth;
     public float MoveMod;
     
 }
