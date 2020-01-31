@@ -10,6 +10,8 @@ public class Death : MonoBehaviour
     private EnemyStatus escr;
     private WaveManager wavescrip;
 
+    public GameObject deatheffect;
+
     private void Start()
     {
         wavescrip = GameObject.Find("GameLogic").GetComponent<WaveManager>();
@@ -29,13 +31,16 @@ public class Death : MonoBehaviour
             if (isTower)
             {
                 Destroy(gameObject);
-
+                GameObject go = Instantiate(deatheffect) as GameObject;
+                go.transform.position = transform.position;
             }
             else
             {
                 
                 //mscr.money += escr.Worth;
                 Destroy(gameObject);
+                GameObject go = Instantiate(deatheffect) as GameObject;
+                go.transform.position = transform.position;
                 wavescrip.addPoints(escr.Worth);
             }
         }

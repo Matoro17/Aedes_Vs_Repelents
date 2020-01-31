@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class WinGame : MonoBehaviour
@@ -9,6 +9,7 @@ public class WinGame : MonoBehaviour
     private WaveManager wavescrip;
     private LoseGame losegame;
     private Money money;
+    public int limit;
 
     public Text final;
 
@@ -23,20 +24,40 @@ public class WinGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (wavescrip.pontos >= 50)
+        if (wavescrip.pontos >= limit)
         {
-            winGame();
+            if (limit == 20)
+            {
+                winGame1();
+            }else if (limit == 30)
+            {
+                wingame2();
+            }else if (limit==40)
+            {
+                wingame3();
+            }
         }
     }
 
-    public void winGame()
+    public void winGame1()
     {
-        int pontos = wavescrip.pontos;
-        float energia = money.money;
-        final.color = new Color(255,255,255,255);
-        final.text = "Congratulations, your Score is: \n Enemies Killed: "+pontos+"\n Energy acquired: "+energia;
+        SceneManager.LoadScene("Fim1");
+        PlayerPrefs.SetInt("stage", 1);
+        //int pontos = wavescrip.pontos;
+        //float energia = money.money;
+        //final.color = new Color(255,255,255,255);
+        //final.text = "Congratulations, your Score is: \n Enemies Killed: "+pontos+"\n Energy acquired: "+energia;
 
         losegame.lost = true;
 
+    }
+    public void wingame2()
+    {
+        SceneManager.LoadScene("Fim2");
+        PlayerPrefs.SetInt("stage", 2);
+    }
+    public void wingame3()
+    {
+        SceneManager.LoadScene("Fim3");
     }
 }

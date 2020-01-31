@@ -6,7 +6,7 @@ public class mainmenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        SceneManager.LoadScene("Fase1");
     }
 
     public void goToMenu()
@@ -16,5 +16,17 @@ public class mainmenu : MonoBehaviour
     public void exitGame()
     {
         Application.Quit();
+    }
+    public void goToStage2()
+    {
+        SceneManager.LoadScene("Fase2");
+    }
+    public void goToStage3()
+    {
+        SceneManager.LoadScene("Fase3");
+    }
+    public void goToStageSELECT()
+    {
+        SceneManager.LoadScene("SelectStage");
     }
 }

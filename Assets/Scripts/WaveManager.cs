@@ -9,6 +9,7 @@ public class WaveManager : MonoBehaviour
     public GameObject[] Enemies;
     public float Cooldown;
     public Text points;
+    public int limit;
     private float cd;
     public int pontos;
 
@@ -52,7 +53,7 @@ public class WaveManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        points.text = "Points: " + pontos;
+        points.text = "Points: " + pontos + "/" + limit;
         if (cd >0)
         {
             cd -= Time.deltaTime;
@@ -62,14 +63,23 @@ public class WaveManager : MonoBehaviour
             cd = Cooldown;
             Vector3 pos = new Vector3(randomPos(Random.Range(0, 6)), 39,1345);
             int index = Random.Range(0, 3);
-            if(index == 0)
-            {
-                index = 1;
-            }
-            else
+            if (Enemies.Length==1)
             {
                 index = 0;
             }
+            else
+            {
+                if (index == 0)
+                {
+                    index = 1;
+                }
+                else
+                {
+                    index = 0;
+                }
+            }
+            
+            
             if (!losegame.lost)
             {
                 Instantiate(Enemies[index], pos, Quaternion.Euler(0, -90, 0));

@@ -27,10 +27,14 @@ public class enemyDamage : MonoBehaviour
         if (Physics.Raycast(transform.position, Vector3.back, out hit,50))
         {
             Debug.DrawRay(transform.position, Vector3.back *50, Color.green);
-            
-            if (hit.transform.tag == "Tower")
+            if (hit.transform.tag == "projectile")
             {
-                if(cd <= 0)
+                movscr.canmove = true;
+            }
+            else if (hit.transform.tag == "Tower")
+            {
+                movscr.canmove = false;
+                if (cd <= 0)
                 {
                     Health hscr = hit.transform.gameObject.GetComponent<Health>();
                     hscr.health -= damage;
@@ -40,7 +44,11 @@ public class enemyDamage : MonoBehaviour
             {
                 GameObject.Find("GameLogic").GetComponent<LoseGame>().lost = true;
             }
-            movscr.canmove = false;
+            else if (hit.transform.tag == "Enemy")
+            {
+                movscr.canmove = true;
+            }
+            
         }else if (movscr.canmove == false)
         {
             movscr.canmove = true;

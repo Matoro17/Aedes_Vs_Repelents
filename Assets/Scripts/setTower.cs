@@ -9,6 +9,7 @@ public class setTower : MonoBehaviour
     public float[] prices;
     public GameObject Tile;
     private Money mscr;
+    public GameObject effect;
 
     // Start is called before the first frame update
     void Start()
@@ -46,7 +47,10 @@ public class setTower : MonoBehaviour
                 mscr.money -= (int)prices[Selected];
                 Vector3 pos = new Vector3(Tile.transform.position.x,50,Tile.transform.position.z);
                 tscr.Tower = (GameObject)Instantiate(towers[Selected], pos, Quaternion.identity);
+                GameObject go = Instantiate(effect) as GameObject;
+                go.transform.position = pos;
                 tscr.isTaken = true;
+                Selected = 50;
             }
         }
     }

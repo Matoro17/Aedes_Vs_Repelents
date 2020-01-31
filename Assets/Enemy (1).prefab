@@ -178,6 +178,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isTower: 0
+  deatheffect: {fileID: 7924030111272139789, guid: ea7ab5eebf88209439c770b2bdc2d8b3,
+    type: 3}
 --- !u!54 &4315514219968746149
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -301,11 +303,6 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 22849d08bedf4ea448887a1de25fa8b2, type: 2}
-    - target: {fileID: 2212119281167040064, guid: 4a7b7ec8aa7e468468030b9b63abb918,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 264021000588501576, guid: 4a7b7ec8aa7e468468030b9b63abb918,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -316,6 +313,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 22849d08bedf4ea448887a1de25fa8b2, type: 2}
+    - target: {fileID: 2212119281167040064, guid: 4a7b7ec8aa7e468468030b9b63abb918,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2044134383805686125, guid: 4a7b7ec8aa7e468468030b9b63abb918, type: 3}
     - {fileID: 2212119281167040064, guid: 4a7b7ec8aa7e468468030b9b63abb918, type: 3}

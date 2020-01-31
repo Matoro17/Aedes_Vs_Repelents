@@ -20,7 +20,7 @@ public class Projectile : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector3.forward * MovementSpeed * Time.deltaTime);
-        if(Vector3.Distance(transform.position,initpos)> 800)
+        if(Vector3.Distance(transform.position,initpos)> 1000)
         {
             Destroy(gameObject);
         }
@@ -32,6 +32,7 @@ public class Projectile : MonoBehaviour
         {
             other.GetComponent<Health>().health -= Damage;
             //Criar particulas
+            
             Destroy(gameObject);
             
         }

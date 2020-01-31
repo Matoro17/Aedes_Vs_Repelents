@@ -9,6 +9,7 @@ TagManager:
   - Tile
   - house
   - projectile
+  - cenario
   layers:
   - Default
   - TransparentFX
